@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Продам ноутбук",
+    "description": "Рабочий, 8 ГБ ОЗУ, 256 ГБ SSD",
+    "price": 25000,
+    "category": "Электроника",
+    "date": "2025-01-10",
+    "source": "Доска 1",
+    "image": "https://mns-basket-cdn-01.geobasket.net/vol401/part40141/40141379/images/big/1.webp",
+    "sourceLink": "https://example.com/ad/1"
+  },
+  {
+    "id": 2,
+    "title": "Сдам квартиру",
+    "description": "2-комнатная, уютная, рядом с метро",
+    "price": 30000,
+    "category": "Недвижимость",
+    "date": "2025-01-09",
+    "source": "Доска 2",
+    "image": "/images/apartment.jpg",
+    "sourceLink": "https://example.com/ad/2"
+  },
+  {
+    "id": 3,
+    "title": "Котенок продается",
+    "description": "Сиамская порода, 3 месяца",
+    "price": 5000,
+    "category": "Животные",
+    "date": "2025-01-08",
+    "source": "Доска 3",
+    "image": "/images/kitten.jpg",
+    "sourceLink": "https://example.com/ad/3"
+  }
+]
